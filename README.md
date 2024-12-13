@@ -1,2 +1,2 @@
-# blogsource
-pic video for my blog
+# blogsourcs
+some items for my blog
